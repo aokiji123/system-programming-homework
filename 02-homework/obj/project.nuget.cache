@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XarSXTDCrGiQlfRunDwkoI4+tK7cRACXz7ie23Iuye/BnUzAlJhUx08zPLVqZuc5HVj++FxF3ZT4ayPYZClzug==",
+  "dgSpecHash": "OOubNWsctZegHLrLNAvXzYRu9RnVY+hzxCukFDKCb0NQbNTmdQvx7oK2mIrrmyWVVMN0W/u9c5n+jFETj59VDg==",
   "success": true,
   "projectFilePath": "/Users/mac/Desktop/projects/system-programming-homework/02-homework/02-homework.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/scriptcs/0.17.1/scriptcs.0.17.1.nupkg.sha512"
+  ],
   "logs": []
 }

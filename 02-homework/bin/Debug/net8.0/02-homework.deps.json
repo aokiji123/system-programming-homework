@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "02-homework/1.0.0": {
+        "dependencies": {
+          "scriptcs": "0.17.1"
+        },
+        "runtime": {
+          "02-homework.dll": {}
+        }
+      },
+      "scriptcs/0.17.1": {}
+    }
+  },
+  "libraries": {
+    "02-homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "scriptcs/0.17.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-waXZFkrbUkFTAAiUBqFl/CO7lWZNZHPE7Soas4qqkYzE4Wz8XqBs0dZHQ2poXsdsolSswJ11kFY9FW99AG2WOg==",
+      "path": "scriptcs/0.17.1",
+      "hashPath": "scriptcs.0.17.1.nupkg.sha512"
+    }
+  }
+}

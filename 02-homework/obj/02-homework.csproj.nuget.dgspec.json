@@ -38,6 +38,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "scriptcs": {
+              "target": "Package",
+              "version": "[0.17.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

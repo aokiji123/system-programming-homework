@@ -1,11 +1,56 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "scriptcs/0.17.1": {
+        "type": "package"
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "scriptcs/0.17.1": {
+      "sha512": "waXZFkrbUkFTAAiUBqFl/CO7lWZNZHPE7Soas4qqkYzE4Wz8XqBs0dZHQ2poXsdsolSswJ11kFY9FW99AG2WOg==",
+      "type": "package",
+      "path": "scriptcs/0.17.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "scriptcs.0.17.1.nupkg.sha512",
+        "scriptcs.nuspec",
+        "tools/Autofac.Integration.Mef.dll",
+        "tools/Autofac.dll",
+        "tools/Common.Logging.dll",
+        "tools/ICSharpCode.NRefactory.CSharp.dll",
+        "tools/ICSharpCode.NRefactory.dll",
+        "tools/Microsoft.CodeAnalysis.CSharp.dll",
+        "tools/Microsoft.CodeAnalysis.Desktop.dll",
+        "tools/Microsoft.CodeAnalysis.Scripting.CSharp.dll",
+        "tools/Microsoft.CodeAnalysis.Scripting.dll",
+        "tools/Microsoft.CodeAnalysis.dll",
+        "tools/Microsoft.Web.XmlTransform.dll",
+        "tools/Mono.CSharp.dll",
+        "tools/Mono.Cecil.dll",
+        "tools/Newtonsoft.Json.dll",
+        "tools/NuGet.Core.dll",
+        "tools/PowerArgs.dll",
+        "tools/ScriptCs.Contracts.dll",
+        "tools/ScriptCs.Core.dll",
+        "tools/ScriptCs.Engine.Mono.dll",
+        "tools/ScriptCs.Engine.Roslyn.dll",
+        "tools/ScriptCs.Hosting.dll",
+        "tools/System.Collections.Immutable.dll",
+        "tools/System.Reflection.Metadata.dll",
+        "tools/chocolateyInstall.ps1",
+        "tools/scriptcs.exe",
+        "tools/scriptcs.exe.config"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "scriptcs >= 0.17.1"
+    ]
   },
   "packageFolders": {
     "/Users/mac/.nuget/packages/": {}
@@ -44,6 +89,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "scriptcs": {
+            "target": "Package",
+            "version": "[0.17.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
