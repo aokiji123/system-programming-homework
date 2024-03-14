@@ -1,0 +1,15 @@
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/bin/Debug/net8.0/04-homework
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/bin/Debug/net8.0/04-homework.deps.json
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/bin/Debug/net8.0/04-homework.runtimeconfig.json
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/bin/Debug/net8.0/04-homework.dll
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/bin/Debug/net8.0/04-homework.pdb
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.AssemblyInfoInputs.cache
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.AssemblyInfo.cs
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.sourcelink.json
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.dll
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/refint/04-homework.dll
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.pdb
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/04-homework.genruntimeconfig.cache
+/Users/mac/Desktop/projects/system-programming-homework/04-homework/obj/Debug/net8.0/ref/04-homework.dll
