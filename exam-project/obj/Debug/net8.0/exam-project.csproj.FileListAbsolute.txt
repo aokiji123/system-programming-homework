@@ -1,0 +1,15 @@
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/bin/Debug/net8.0/exam-project
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/bin/Debug/net8.0/exam-project.deps.json
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/bin/Debug/net8.0/exam-project.runtimeconfig.json
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/bin/Debug/net8.0/exam-project.dll
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/bin/Debug/net8.0/exam-project.pdb
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.AssemblyInfoInputs.cache
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.AssemblyInfo.cs
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.sourcelink.json
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.dll
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/refint/exam-project.dll
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.pdb
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/exam-project.genruntimeconfig.cache
+/Users/mac/Desktop/projects/system-programming-homework/exam-project/obj/Debug/net8.0/ref/exam-project.dll
