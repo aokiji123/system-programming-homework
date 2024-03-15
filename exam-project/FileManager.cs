@@ -95,5 +95,4 @@ public class FileManager
             Console.WriteLine($"Error creating file: {ex.Message}.");
         }
     }
-
 }
